@@ -90,34 +90,34 @@ npm start
 <summary>Click to expand</summary>
 
 #### Home Page
-![Home Page](./screenshots/home_page.jpg)
+![Home Page](./screenshots/home_page.JPG)
 *Engaging landing page with featured products and categories*
 
 #### Product Listings
-![Product Listings](./src/assets/images/Product_listings.JPG)
+![Product Listings](./screenshots/Product_listings.JPG)
 *Comprehensive product catalog with advanced filtering*
 
 #### Product Details
-![Product Details](./src/assets/images/Product_details.JPG)
+![Product Details](./screenshots/Product_details.JPG)
 *Detailed product information with high-resolution images*
 
 #### Shopping Cart
-![Shopping Cart](./src/assets/images/cart.JPG)
+![Shopping Cart](./screenshots/cart.jpg)
 *Intuitive cart management system*
 
 #### Wishlist
-![Wishlist](./src/assets/images/wishlist.jpg)
+![Wishlist](./screenshots/wishlist.jpg)
 *Personal wishlist for saved items*
 
 #### Authentication
-![Login Page](./src/assets/images/login.JPG)
+![Login Page](./screenshots/login.JPG)
 *Secure user login system*
 
-![Sign-Up Page](./src/assets/images/signup.JPG)
+![Sign-Up Page](./screenshots/signup.JPG)
 *User-friendly registration process*
 
 #### Checkout
-![Checkout](./src/assets/images/checkout.JPG)
+![Checkout](./screenshots/checkout.JPG)
 *Streamlined checkout experience*
 </details>
 
@@ -127,15 +127,15 @@ npm start
 <summary>Click to expand</summary>
 
 #### Sales Dashboard
-![Sales Overview](./src/assets/images/Sales_Overview.JPG)
+![Sales Overview](./screenshots/Sales_Overview.JPG)
 *Comprehensive sales analytics and reporting*
 
 #### Product Management
-![Manage Products](./src/assets/images/Manage_Products.JPG)
+![Manage Products](./screenshots/Manage_Products.JPG)
 *Advanced product management interface*
 
 #### Customer Management
-![Customer Info](./src/assets/images/customer_info.JPG)
+![Customer Info](./screenshots/customer_info.JPG)
 *Detailed customer insights and management*
 </details>
 
