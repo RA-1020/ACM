@@ -1,6 +1,6 @@
-# 🛍️ Zad à Dos - Modern E-commerce Platform
-
 <div align="center">
+
+# 🛍️ Zad à Dos - Modern E-commerce Platform
 
 [![Sabancı University](https://img.shields.io/badge/Sabancı-University-blue.svg)](https://www.sabanciuniv.edu/en)
 [![Made with React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org/)
@@ -15,7 +15,7 @@
 ## ✨ Features
 
 ### For Customers
-- 🏠 **Intuitive Home Page** - Showcase of featured products and trending categories [View Home_Page](#home-page)
+- 🏠 **Intuitive Home Page** - Showcase of featured products and trending categories [View Home Page](#home-page)
 - 🔍 **Advanced Product Discovery** 
   - Smart filtering and sorting options [View Catalog](#product-listings)
   - Detailed product pages with high-resolution images [View Details](#product-details)
@@ -25,17 +25,17 @@
   - Wishlist functionality [View Wishlist](#wishlist)
   - Streamlined checkout process [View Checkout](#checkout)
 - 👤 **User Management**
-  - Secure authentication system [View Login](#authentication)
+  - Secure authentication system [View Authentication](#authentication)
   - Personal profile customization
   - Order history tracking
 
 ### For Administrators
 - 📊 **Comprehensive Dashboard**
-  - Real-time sales analytics [View Dashboard](#sales-dashboard)
-  - Customer insights [View Insights](#customer-management)
+  - Real-time sales analytics [View Sales Dashboard](#sales-dashboard)
+  - Customer insights [View Customer Info](#customer-management)
   - Inventory management
 - 🎯 **Product Management**
-  - Bulk product upload [View Management](#product-management)
+  - Bulk product upload [View Product Management](#product-management)
   - Category management
   - Price and stock updates
 - 👥 **Customer Management**
