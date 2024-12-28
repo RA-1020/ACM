@@ -48,7 +48,7 @@
 - **Frontend:**
   - React.js
 
-- **Backend:**
+- **Backend: [Backend Repo](https://github.com/pishmish/laback).**
   - Express.js
   - MySQL
   - Node.js
