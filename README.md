@@ -13,6 +13,8 @@
 
 </div>
 
+---
+
 ## ✨ Features
 
 ### For Customers
@@ -44,6 +46,8 @@
   - Order tracking
   - Communication tools
 
+---
+
 ## 🛠️ Tech Stack
 
 - **Frontend:**
@@ -53,6 +57,8 @@
   - Express.js
   - MySQL
   - Node.js
+
+---
 
 ## 🚀 Quick Start
 
@@ -82,6 +88,8 @@ npm start
 ```
 
 🌐 Access the application at `http://localhost:3000`
+
+---
 
 ## 📸 Screenshots
 
@@ -140,6 +148,8 @@ npm start
 *Detailed customer insights and management*
 </details>
 
+---
+
 ## 📁 Project Structure
 
 ```
@@ -152,18 +162,19 @@ src/
 └── App.js         # Main component
 ```
 
+---
+## 🤝 Contributing
+
 ## 👥 Team
 
 Meet the talented developers behind Zad à Dos:
 
-- Nuh Al-Sharafi - *Team Lead*
-- Musab Ahmed Khan - *Frontend Developer*
-- Guanghui Ma - *Backend Developer*
-- Muhammad Haris - *UI/UX Designer*
-- Areeb Kamal - *Full Stack Developer*
-- Cem Görkem Baysal - *Quality Assurance*
-
-## 🤝 Contributing
+- Nuh Al-Sharafi 
+- Musab Ahmed Khan 
+- Guanghui Ma 
+- Muhammad Haris 
+- Areeb Kamal 
+- Cem Görkem Baysal
 
 We welcome contributions! Please follow these steps:
 
@@ -175,7 +186,7 @@ We welcome contributions! Please follow these steps:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the Sabancı University.
 
 ## 🙏 Acknowledgments
 
