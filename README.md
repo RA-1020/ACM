@@ -2,7 +2,6 @@
 
 # 🛍️ Zad à Dos - Modern E-commerce Platform
 
-[![Sabancı University](https://img.shields.io/badge/Sabancı-University-blue.svg)](https://www.sabanciuniv.edu/en)
 [![Made with React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](https://expressjs.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
@@ -169,12 +168,7 @@ src/
 
 Meet the talented developers behind Zad à Dos:
 
-- Nuh Al-Sharafi 
-- Musab Ahmed Khan 
-- Guanghui Ma 
-- Muhammad Haris 
-- Areeb Kamal 
-- Cem Görkem Baysal
+- ROHAAN AHMAD
 
 ## We welcome contributions! Please follow these steps:
 
@@ -190,7 +184,6 @@ This project is licensed under the Sabancı University.
 
 ## 🙏 Acknowledgments
 
-- Special thanks to Sabanci University for the project opportunity
 - All contributors who have helped shape Zad à Dos
 - The open-source community for their invaluable resources
 
