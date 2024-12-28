@@ -3,7 +3,7 @@
 # 🛍️ Zad à Dos - Modern E-commerce Platform
 
 [![Sabancı University](https://img.shields.io/badge/Sabancı-University-blue.svg)](https://www.sabanciuniv.edu/en)
-[![Made with React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Made with React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](https://expressjs.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
@@ -49,7 +49,7 @@
 - **Frontend:**
   - React.js
 
-- **Backend: [Backend Repo](https://github.com/pishmish/laback).**
+- **[Backend:](https://github.com/pishmish/laback).**
   - Express.js
   - MySQL
   - Node.js
