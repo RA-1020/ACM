@@ -8,14 +8,14 @@
 
 **Zad à Dos** is a modern, feature-rich e-commerce platform specialized in bag retail. Built with React.js and powered by Express.js & MySQL, it delivers a seamless shopping experience with enterprise-grade features.
 
-[View Demo](https://your-demo-link.com) • [Report Bug](https://github.com/yourusername/zad-a-dos/issues) • [Request Feature](https://github.com/yourusername/zad-a-dos/issues)
+[View Demo](https://your-demo-link.com) 
 
 </div>
 
 ## ✨ Features
 
 ### For Customers
-- 🏠 **Intuitive Home Page** - Showcase of featured products and trending categories [View Screenshot](#home-page)
+- 🏠 **Intuitive Home Page** - Showcase of featured products and trending categories [View Home_Page](#home-page)
 - 🔍 **Advanced Product Discovery** 
   - Smart filtering and sorting options [View Catalog](#product-listings)
   - Detailed product pages with high-resolution images [View Details](#product-details)
@@ -47,9 +47,6 @@
 
 - **Frontend:**
   - React.js
-  - Tailwind CSS
-  - Axios
-  - React Router
 
 - **Backend:**
   - Express.js
