@@ -8,6 +8,18 @@ Welcome to the backend repository for Zad à Dos, an e-commerce website designed
 
 he backend of Zad à Dos provides essential functionalities for managing users, products, orders, and more. It enables seamless integration with the front-end, ensuring a smooth experience for end-users. This guide details how to set up, run, and contribute to the project.
 
+---
+
+## Team Members
+- Nuh Al-Sharafi
+- Musab Ahmed Khan
+- Guanghui Ma
+- Muhammad Haris
+- Areeb Kamal
+- Cem Görkem Baysal
+
+---
+
 ## Features
 
 - **User Authentication and Authorization:** Secure sign-up and sign-in processes with role-based access control, allowing for clear distinction between customer and administrator privileges.
@@ -37,15 +49,6 @@ Ensure you have the following installed:
 - **npm** (comes with Node.js)
 - **MySQL**
 
----
-
-## Team Members
-- Nuh Al-Sharafi
-- Musab Ahmed Khan
-- Guanghui Ma
-- Muhammad Haris
-- Areeb Kamal
-- Cem Görkem Baysal
 
 ---
 
