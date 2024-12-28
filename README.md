@@ -176,7 +176,7 @@ Meet the talented developers behind Zad à Dos:
 - Areeb Kamal 
 - Cem Görkem Baysal
 
-We welcome contributions! Please follow these steps:
+## We welcome contributions! Please follow these steps:
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
