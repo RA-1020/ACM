@@ -4,6 +4,7 @@
 
 [![Sabancı University](https://img.shields.io/badge/Sabancı-University-blue.svg)](https://www.sabanciuniv.edu/en)
 [![Made with React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Express.js](https://img.shields.io/badge/Express.js-Framework-lightgrey.svg)](https://expressjs.com/)
 
 **Zad à Dos** is a modern, feature-rich e-commerce platform specialized in bag retail. Built with React.js and powered by Express.js & MySQL, it delivers a seamless shopping experience with enterprise-grade features.
 
@@ -89,7 +90,7 @@ npm start
 <summary>Click to expand</summary>
 
 #### Home Page
-![Home Page](./src/assets/images/home_page.JPG)
+![Home Page](./screenshots/home_page.jpg)
 *Engaging landing page with featured products and categories*
 
 #### Product Listings
