@@ -59,8 +59,7 @@ npm >= 8.x
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/zad-a-dos.git
-cd zad-a-dos
+git clone https://github.com/RA-1020/ACM.git
 ```
 
 2. Install dependencies
@@ -70,85 +69,21 @@ npm install
 
 3. Start the development server
 ```bash
+cd src
 npm start
 ```
 
 🌐 Access the application at `http://localhost:3000`
 
----
-
-## 📸 Screenshots
-
-### Customer Interface
-
-<details>
-<summary>Click to expand</summary>
-
-#### Home Page
-![Home Page](./screenshots/home_page.JPG)
-*Engaging landing page with featured products and categories*
-
-#### Product Listings
-![Product Listings](./screenshots/Product_listings.JPG)
-*Comprehensive product catalog with advanced filtering*
-
-#### Product Details
-![Product Details](./screenshots/Product_details.JPG)
-*Detailed product information with high-resolution images*
-
-#### Shopping Cart
-![Shopping Cart](./screenshots/cart.jpg)
-*Intuitive cart management system*
-
-#### Wishlist
-![Wishlist](./screenshots/wishlist.jpg)
-*Personal wishlist for saved items*
-
-#### Authentication
-![Login Page](./screenshots/login.JPG)
-*Secure user login system*
-
-![Sign-Up Page](./screenshots/signup.JPG)
-*User-friendly registration process*
-
-#### Checkout
-![Checkout](./screenshots/checkout.JPG)
-*Streamlined checkout experience*
-</details>
-
-### Admin Interface
-
-<details>
-<summary>Click to expand</summary>
-
-#### Sales Dashboard
-![Sales Overview](./screenshots/Sales_Overview.JPG)
-*Comprehensive sales analytics and reporting*
-
-#### Product Management
-![Manage Products](./screenshots/Manage_Products.JPG)
-*Advanced product management interface*
-
-#### Customer Management
-![Customer Info](./screenshots/customer_info.JPG)
-*Detailed customer insights and management*
-</details>
-
----
-
-## 📁 Project Structure
-
-```
-src/
-├── assets/         # Static resources
-├── components/     # Reusable UI components
-├── pages/          # Page components
-├── services/       # API integrations
-├── styles/        # Global styles
-└── App.js         # Main component
+4. Start the backend server
+```bash
+cd backend
+node index.js
 ```
 
+
 ---
+
 ## 🤝 Contributing
 
 ## 👥 Team
