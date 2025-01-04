@@ -1,12 +1,12 @@
 <div align="center">
 
-# 🛍️ Zad à Dos - Modern E-commerce Platform
+# Accounts Management System - Empowering Precision, Enhancing Productivity
 
 [![Made with React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](https://expressjs.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-8CC84B?style=for-the-badge)](https://nodejs.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
-**Zad à Dos** is a modern, feature-rich e-commerce platform specialized in bag retail. Built with React.js and powered by Express.js & MySQL, it delivers a seamless shopping experience with enterprise-grade features.
+**Accounts Management System** streamlines financial transactions, inventory, and accounting for small businesses, helping increase profits. With a user-friendly interface and role-specific tools, it boosts efficiency, financial precision, and overall operational performance.
 
 [View Demo](https://your-demo-link.com) 
 
@@ -16,46 +16,33 @@
 
 ## ✨ Features
 
-### For Customers
-- 🏠 **Intuitive Home Page** - Showcase of featured products and trending categories [View Home Page](#home-page)
-- 🔍 **Advanced Product Discovery** 
-  - Smart filtering and sorting options [View Catalog](#product-listings)
-  - Detailed product pages with high-resolution images [View Details](#product-details)
-  - Real-time stock updates
-- 🛒 **Seamless Shopping Experience**
-  - Easy cart management [View Cart](#shopping-cart)
-  - Wishlist functionality [View Wishlist](#wishlist)
-  - Streamlined checkout process [View Checkout](#checkout)
-- 👤 **User Management**
-  - Secure authentication system [View Authentication](#authentication)
-  - Personal profile customization
-  - Order history tracking
+### General Features
+- **Centralized Financial Management**: Track sales, purchases, expenses, and profits.
+- **Inventory Monitoring**: Real-time updates on stock levels and inventory details.
+- **User Role Management**: Tailored access for employees, branch managers, and owners.
+- **Customizable Dashboard**: Provides insights into financial health and key metrics.
 
-### For Administrators
-- 📊 **Comprehensive Dashboard**
-  - Real-time sales analytics [View Sales Dashboard](#sales-dashboard)
-  - Customer insights [View Customer Info](#customer-management)
-  - Inventory management
-- 🎯 **Product Management**
-  - Bulk product upload [View Product Management](#product-management)
-  - Category management
-  - Price and stock updates
-- 👥 **Customer Management**
-  - Detailed customer profiles
-  - Order tracking
-  - Communication tools
+### Employee Features
+- Access to personal contracts, bonuses, fines, and leave details.
+- Ability to refute fines and apply for sick or annual leaves.
+
+### Branch Manager Features
+- Manage transactions including sales and expenses.
+- Issue or withdraw fines for employees.
+- Send payment reminders to vendors via email.
+
+### Owner Features
+- Access all contracts, transactions, and profit data.
+- Department-wise financial performance analysis.
+- All functionalities available to branch managers.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Frontend:**
-  - React.js
-
-- **[Backend:](https://github.com/pishmish/laback).**
-  - Express.js
-  - MySQL
-  - Node.js
+- **Frontend**: React.js, HTML, CSS, and JavaScript for a dynamic and responsive user interface.
+- **Backend**: Node.js for handling server-side operations and API endpoints.
+- **Database**: MySQL, designed to store and manage critical business data efficiently.
 
 ---
 
@@ -166,28 +153,10 @@ src/
 
 ## 👥 Team
 
-Meet the talented developers behind Zad à Dos:
+Meet the talented developers behind ACM:
 
 - ROHAAN AHMAD
-
-## We welcome contributions! Please follow these steps:
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the Sabancı University.
-
-## 🙏 Acknowledgments
-
-- All contributors who have helped shape Zad à Dos
-- The open-source community for their invaluable resources
+- Arshia Yaser
 
 ---
-<div align="center">
-Made with ❤️ by the Zad à Dos Team
-</div>
+
